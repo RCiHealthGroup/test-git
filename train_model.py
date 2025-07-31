@@ -1,5 +1,6 @@
 def load_data():
   print("Loading data...")
+  print("Flip to account for initial data flip...")
 
 
 def train_model():

@@ -1,5 +1,6 @@
 def load_twix():
   print("Loading twix...")
+  print("Flipping data")
 
 
 def run_reconstruction():
