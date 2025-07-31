@@ -1,5 +1,6 @@
 def load_data():
   print("Loading data...")
+  print("Preprocessing data")
 
 
 def train_model():
