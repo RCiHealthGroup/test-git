@@ -1,6 +1,7 @@
 def load_data():
   print("Loading data...")
   print("Account for fixed flips...")
+  print("Cropping data")
 
 
 def train_model():
