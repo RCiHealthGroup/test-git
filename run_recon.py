@@ -1,6 +1,6 @@
 def load_twix():
   print("Loading twix...")
-  print("Pre-processing due to missing flips...")
+  print("Flip data")
 
 
 def run_reconstruction():
